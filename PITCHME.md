@@ -57,7 +57,7 @@ console.log("eof");
 　  
 と記述することで、Gistも表示可能です。
 ---
----?gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
+---?gist=Slave-to-PS/021c50d2cba29f920ab08968852ecb50d8d417cd
 ---
 記述が終わったら、  
 Commit new fileで完了です。  
