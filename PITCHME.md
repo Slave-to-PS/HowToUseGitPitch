@@ -57,6 +57,8 @@ console.log("eof");
 　  
 と記述することで、Gistも表示可能です。
 ---
+---?gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
+---
 記述が終わったら、  
 Commit new fileで完了です。  
 <img src="assets/CommitNewFile.png"/>
